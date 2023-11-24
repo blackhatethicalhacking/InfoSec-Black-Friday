@@ -405,6 +405,14 @@ Null-Char - Malware Analysis Course \
 https://courses.null-char.com/courses/the-art-of-malware-analysis  
 $50 off with code: November_Holidays_23
 
+Black Hat Ethical Hacking \
+https://www.blackhatethicalhacking.com/courses  
+UP TO 70% OFF - No code required \
+Courses Available: \ 
+Offensive Security and Ethical Hacking Course \
+The Bug Bounty Hunting Course \
+Deal ends: 06th December
+
 ## Practical Labs:
 
 Safer Internet Project Ongoing Labs \
